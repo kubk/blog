@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 const getIndexFile = () => {
     const environments = {
         ADMIN: 'index-admin',
-        CLIENT: 'index-admin',
+        CLIENT: 'index-client',
     }
 
     const buildTarget = process.env.REACT_APP_BUILD_TARGET;

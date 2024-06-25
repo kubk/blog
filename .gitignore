@@ -1,3 +1,5 @@
 demo/multiple-entry-points/.idea
-demo/multiple-entry-points/node_modules
+demo/telegram-stars-payment/.env
+.DS_Store
+node_modules
 .idea
